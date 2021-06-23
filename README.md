@@ -22,7 +22,7 @@ Dictionaryga.me is a game about guessing definitions for strange words.
 
 Tech used: Python, Django, React, React-Transitions
 
-### [Catan Community Discord Bot](https://gitlab.com/catancommunity/catan-community-discord-bot)
+### [Catan Community Discord Bot](https://gitlab.com/catan-community/catan-community-discord-bot)
 
 This bot keeps track of games played and awards LP to winners in the [catan community](catancommunity.com). It also keeps track of ranking players and offers a wide range of admin tools. Hunderds of users each month, and over 1,200 players ranked.
 
