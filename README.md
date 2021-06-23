@@ -1,7 +1,32 @@
-### Hi there 👋
+## [Maurits van Riezen](mousetail.nl)
 
-![test image](https://mousetail.nl/lijst.png)
+*Full stack software developer for [Techonomy](https://www.techonomy.nl/)*
 
+More projects on my [Gitlab Profile](https://gitlab.com/mousetail/)
+
+## Projects
+
+### [ELFSH](elfsh.mousetail.nl)
+
+ELFSH is a system to share costs and cooking responsibilities:
+
+![ELFSH screenshot](https://mousetail.nl/lijst.png)
+
+Tech used: Python, React, Django, Postgres
+
+### [Dictionaryga.me](https://dictionaryga.me)
+
+Dictionaryga.me is a game about guessing definitions for strange words.
+
+![Dictionaryga.me screenshot](https://mousetail.nl/dictionaryga.me.png)
+
+Tech used: Python, Django, React, React-Transitions
+
+### [Catan Community Discord Bot](https://gitlab.com/catancommunity/catan-community-discord-bot)
+
+This bot keeps track of games played and awards LP to winners in the [catan community](catancommunity.com). It also keeps track of ranking players and offers a wide range of admin tools. Hunderds of users each month, and over 1,200 players ranked.
+
+Tech used: Python, Discord.py
 <!--
 **mousetail/mousetail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
