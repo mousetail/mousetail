@@ -6,7 +6,7 @@ More projects on my [Gitlab Profile](https://gitlab.com/mousetail/)
 
 ## Projects
 
-### [ELFSH](elfsh.mousetail.nl)
+### [ELFSH](https://elfsh.mousetail.nl)
 
 ELFSH is a system to share costs and cooking responsibilities:
 
