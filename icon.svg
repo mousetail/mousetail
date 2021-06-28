@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 32 32">
+    <rect fill="white" x="-16" y="-16"  width="32" height="32"/>
+
+    <path d="M 0 0 L -16 0 A 16 16 90 0 1 0 -16 Z" fill="#666"/>
+    <path d="M 0 0 L 16 0 A 16 16 90 0 1 0 16 Z" fill="#666"/>
+    <path d="M -2 -2 L -14 -2 A 14 14 90 0 1 -2 -14 Z" fill="pink"/>
+    <path d="M 2 2 L 14 2 A 14 14 90 0 1 2 14 Z" fill="pink"/>
+
+    <g transform="rotate(-15 0 0)">
+        <rect x="-15" y="-1" width="30" height="2"/>
+    </g>
+    <g transform="rotate(-45 0 0)">
+        <rect x="-15" y="-1" width="30" height="2"/>
+    </g>
+    <g transform="rotate(-75 0 0)">
+        <rect x="-15" y="-1" width="30" height="2"/>
+    </g>
+
+    <circle cx="0" cy="0" r="6" fill="#aaa"/>
+
+    <rect x="-3" y="-2" width="2" height="4"/>
+    <rect x="1" y="-2" width="2" height="4"/>
+</svg>
