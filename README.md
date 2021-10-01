@@ -3,6 +3,8 @@
 *Full stack software developer for [Techonomy](https://www.techonomy.nl/)*
 
 ![Human](https://img.shields.io/badge/Species-Human-red) ![Dutch](https://img.shields.io/badge/Nationality-Dutch-blue) ![Gender](https://img.shields.io/badge/Gender-Male-orange)
+![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/6333444?color=orange&label=reputation&logo=stackoverflow&style=plastic&cacheSeconds=86400)
+<!--             https://img.shields.io/stackexchange/stackoverflow/r/6333444?style=plastic -->
 
 More projects on my [Gitlab Profile](https://gitlab.com/mousetail/)
 
