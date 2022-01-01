@@ -28,7 +28,7 @@ Tech used: Python, Django, React, React-Transitions
 
 ### [Catan Community Discord Bot](https://gitlab.com/catan-community/catan-community-discord-bot)
 
-This bot keeps track of games played and awards LP to winners in the [catan community](catancommunity.com). It also keeps track of ranking players and offers a wide range of admin tools. Hunderds of users each month, and over 1,200 players ranked.
+This bot keeps track of games played and awards LP to winners in the [catan community](https://catancommunity.org). It also keeps track of ranking players and offers a wide range of admin tools. Hunderds of users each month, and over 1,200 players ranked.
 
 Tech used: Python, Discord.py
 <!--
