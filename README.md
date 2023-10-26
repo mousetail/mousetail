@@ -1,6 +1,6 @@
 ## [Maurits van Riezen](https://mousetail.nl)
 
-*Full stack software developer for [Colonist.io](https://www.colonist.io/)*
+*Full stack software developer for [Veldsink Groep](https://www.veldsinkgroep.nl/)*
 
 ![Human](https://img.shields.io/badge/Species-Human-red) ![Dutch](https://img.shields.io/badge/Nationality-Dutch-blue) ![Gender](https://img.shields.io/badge/Gender-Male-orange)
 ![StackOverflow](https://img.shields.io/stackexchange/stackoverflow/r/6333444?color=orange&label=reputation&logo=stackoverflow&style=flat&cacheSeconds=86400)
