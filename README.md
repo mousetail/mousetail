@@ -10,6 +10,14 @@ More projects on my [Gitlab Profile](https://gitlab.com/mousetail/)
 
 ## Projects
 
+### [Byte Heist](https://byte-heist.com)
+
+Byte Heist is a competetive code golf site.
+
+![Byte Heist screenshot](https://mousetail.nl/cv/byte_heist.png)
+
+Tech used: Rust, Axum, PostgreSQL, SQLx
+
 ### [ELFSH](https://elfsh.mousetail.nl)
 
 ELFSH is a system to share costs and cooking responsibilities:
@@ -17,14 +25,6 @@ ELFSH is a system to share costs and cooking responsibilities:
 ![ELFSH screenshot](https://mousetail.nl/lijst.png)
 
 Tech used: Python, React, Django, Postgres
-
-### [Dictionaryga.me](https://dictionaryga.me)
-
-Dictionaryga.me is a game about guessing definitions for strange words.
-
-![Dictionaryga.me screenshot](https://mousetail.nl/dictionaryga.me.png)
-
-Tech used: Python, Django, React, React-Transitions
 
 ### [Catan Community Discord Bot](https://gitlab.com/catan-community/catan-community-discord-bot)
 
